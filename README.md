@@ -136,7 +136,7 @@ recommend("Inception")
 
 ## 🧑‍💻 Author
 
-**Your Name**
+**Akash Aryan**
 📫 [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
