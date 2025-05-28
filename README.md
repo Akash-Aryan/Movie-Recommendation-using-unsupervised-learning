@@ -1,5 +1,8 @@
 # 🎥 Movie Recommendation System
 
+![machine-learning-project-movie-recommendation-system](https://github.com/user-attachments/assets/769e9021-b5e8-4aa1-aea9-aaef5e02e4e7)
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg" />
